@@ -1,0 +1,33 @@
+
+BY: SHAHAN RAHMAN
+
+CSC FINAL PROJECT
+
+To Run compiler you must use terminal.
+move into the directory of the files
+for example:
+
+cd Desktop
+cd Compiler
+cd src
+
+Then you run javac Emulator.java
+
+Then you run java Emulator (name of pascal file)
+For example:
+
+java Emulator forLoopTest.pas
+
+
+
+
+Attached in this folder is a screenshot of all the pascal test files running.
+
+Features of the compiler:
+TYPES THAT IT CAN TAKE IN: BOOLEAN, INT, FLOAT, STRING, CHAR
+CAN RUN LOOPS, CONDITIONAL, FUNCTIONS (PROCEDURES), ARRAYS, ASSIGNMENTS, GOTO
+
+
+MY EMAIL IS: SHAHAN27@LIVE.COM OR SRAHMAN014@CITYMAIL.CUNY.EDU
+MY EMPL ID: 23490213
+S
